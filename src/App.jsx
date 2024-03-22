@@ -11,7 +11,7 @@ const App = () => {
     <>
     <Navbar/>
     < Hero />
-      
+    {/* new line */}
 
    
     {/* <!-- Developers and Employers --> */}
